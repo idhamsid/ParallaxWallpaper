@@ -1,0 +1,164 @@
+{
+  "MoreApp":
+  [
+    {
+      "id":1,
+      "title":"Nature",
+      "image":"file:///android_asset/more/more1.png",
+      "link":"https://aliendro.id/alien-parallax-and-live-wallpaper-111"
+    },
+    {
+      "id":2,
+      "title":"Beach",
+      "image":"file:///android_asset/more/more2.png",
+      "link":"https://aliendro.id/alien-3d-skins-panorama-mcpe-114"
+    },
+    {
+      "id":3,
+      "title":"Animals",
+      "image":"file:///android_asset/more/more3.png",
+      "link":"https://aliendro.id/alien-fake-vv-call-v12-4"
+    },
+    {
+      "id":4,
+      "title":"Super Car",
+      "image":"file:///android_asset/more/more4.png",
+      "link":"https://aliendro.id/alien-theme-keyboard-online-offline-104"
+    },
+    {
+      "id":5,
+      "title":"Space",
+      "image":"file:///android_asset/more/more5.png",
+      "link":"https://aliendro.id/"
+    },
+    {
+      "id":6,
+      "title":"Love Bird",
+      "image":"file:///android_asset/more/more6.png",
+      "link":"https://aliendro.id/"
+    }
+
+  ],
+  "Wallpaper": [
+    {
+      "wallpaper_name": "Space1",
+      "wallpaper_url": "image/1/1.jpeg"
+    },
+    {
+      "wallpaper_name": "Space2",
+      "wallpaper_url": "image/1/2.jpeg"
+    },
+    {
+      "wallpaper_name": "Space3",
+      "wallpaper_url": "image/1/3.jpeg"
+    },
+    {
+      "wallpaper_name": "Space4",
+      "wallpaper_url": "image/1/4.jpeg"
+    },
+    {
+      "wallpaper_name": "Space5",
+      "wallpaper_url": "image/1/5.jpeg"
+    },
+    {
+      "wallpaper_name": "Space6",
+      "wallpaper_url": "image/1/6.jpeg"
+    },
+    {
+      "wallpaper_name": "Space7",
+      "wallpaper_url": "image/1/7.jpeg"
+    },
+    {
+      "wallpaper_name": "Space8",
+      "wallpaper_url": "image/1/8.jpeg"
+    },
+    {
+      "wallpaper_name": "Space9",
+      "wallpaper_url": "image/1/9.jpeg"
+    },
+    {
+      "wallpaper_name": "Space10",
+      "wallpaper_url": "image/1/10.jpeg"
+    },
+    {
+      "wallpaper_name": "Space11",
+      "wallpaper_url": "image/1/11.jpeg"
+    },
+    {
+      "wallpaper_name": "Space12",
+      "wallpaper_url": "image/1/12.jpeg"
+    },
+    {
+      "wallpaper_name": "Space13",
+      "wallpaper_url": "image/1/13.jpeg"
+    },
+    {
+      "wallpaper_name": "Space14",
+      "wallpaper_url": "image/1/14.jpeg"
+    },
+    {
+      "wallpaper_name": "Space15",
+      "wallpaper_url": "image/1/15.jpeg"
+    },
+    {
+      "wallpaper_name": "Space16",
+      "wallpaper_url": "image/1/16.jpeg"
+    },
+    {
+      "wallpaper_name": "Space17",
+      "wallpaper_url": "image/1/7.jpeg"
+    },
+    {
+      "wallpaper_name": "Space18",
+      "wallpaper_url": "image/1/18.jpeg"
+    },
+    {
+      "wallpaper_name": "Space19",
+      "wallpaper_url": "image/1/19.jpeg"
+    },
+    {
+      "wallpaper_name": "Space20",
+      "wallpaper_url": "image/1/20.jpeg"
+    },
+    {
+      "wallpaper_name": "Space21",
+      "wallpaper_url": "image/1/21.jpeg"
+    },
+    {
+      "wallpaper_name": "Space22",
+      "wallpaper_url": "image/1/22.jpeg"
+    },
+    {
+      "wallpaper_name": "Space23",
+      "wallpaper_url": "image/1/23.jpeg"
+    },
+    {
+      "wallpaper_name": "Space24",
+      "wallpaper_url": "image/1/24.jpeg"
+    },
+    {
+      "wallpaper_name": "Space25",
+      "wallpaper_url": "image/1/25.jpeg"
+    },
+    {
+      "wallpaper_name": "Space26",
+      "wallpaper_url": "image/1/26.jpeg"
+    },
+    {
+      "wallpaper_name": "Space27",
+      "wallpaper_url": "image/1/27.jpeg"
+    },
+    {
+      "wallpaper_name": "Space28",
+      "wallpaper_url": "image/1/28.jpeg"
+    },
+    {
+      "wallpaper_name": "Space29",
+      "wallpaper_url": "image/1/29.jpeg"
+    },
+    {
+      "wallpaper_name": "Space30",
+      "wallpaper_url": "image/1/30.jpeg"
+    }
+  ]
+}

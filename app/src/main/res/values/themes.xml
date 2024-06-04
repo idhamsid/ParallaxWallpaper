@@ -1,0 +1,42 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.WallpapersAPIPexel" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">#2d3436</item>
+        <item name="colorPrimaryDark">#2d3436</item>
+        <item name="colorAccent">#000000</item>
+        <!-- Customize your theme here. -->
+    </style>
+
+    <style name="AppSaa" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">#2c3e50</item>
+        <item name="colorPrimaryDark">#2c3e50</item>
+        <item name="colorAccent">#000000</item>
+        <item name="windowActionBar">false</item>
+
+    </style>
+    <style name="AppThemeBase" parent="Theme.AppCompat.NoActionBar">
+        <item name="colorPrimaryDark">@android:color/transparent</item>
+        <item name="colorPrimary">@android:color/transparent</item>
+        <item name="colorAccent">#ffffff</item>
+    </style>
+
+    <style name="AppTheme2" parent="AppThemeBase">
+    </style>
+
+    <style name="AppTheme2.MainActivity">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowShowWallpaper">true</item>
+    </style>
+
+    <style name="SheetDialog" parent="Theme.Design.Light.BottomSheetDialog">
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:colorBackground">@android:color/transparent</item>
+        <item name="android:backgroundDimEnabled">true</item>
+        <item name="android:backgroundDimAmount">0.2</item>
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowIsFloating">true</item>
+    </style>
+</resources>

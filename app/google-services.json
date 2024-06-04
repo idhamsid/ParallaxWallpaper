@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "114056667275",
+    "firebase_url": "https://frame-json-default-rtdb.firebaseio.com",
+    "project_id": "frame-json",
+    "storage_bucket": "frame-json.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:114056667275:android:00231189402e6ab29cf48e",
+        "android_client_info": {
+          "package_name": "com.simplewallpaper.spacewallpaper"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "114056667275-mfnt114rleeji79ti5a9i5r91sg4gmun.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kimganteng.alientwibbonframejson",
+            "certificate_hash": "c5b9b899c5cd88a4d8703e0ed0bb83f25f76de24"
+          }
+        },
+        {
+          "client_id": "114056667275-dvs7mi0nhu5bo5k0gnp4hsav4gjui1cj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbb58qMnUjdzdjZHNP8OXQagxw1F_8mwc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "114056667275-dvs7mi0nhu5bo5k0gnp4hsav4gjui1cj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
